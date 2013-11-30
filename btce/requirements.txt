@@ -1,0 +1,1 @@
+-e git://github.com/alanmcintyre/btce-api.git#egg=btce-api
